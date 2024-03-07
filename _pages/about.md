@@ -7,7 +7,7 @@ profile:
   align: right
   image: stylized-portrait.jpg
   more_info: >
-    <p>Math Department, Room 607</p>
+    <p>Math Department, 607</p>
     <p>Columbia University</p>
     <p>New York, NY 10027</p>
 
@@ -20,8 +20,6 @@ I am currently the Herbert and Florence Irving Professor
 of Cancer Data Research (in the Herbert and Florence Irving Institute
 of Cancer Dynamics and in the Herbert Irving Comprehensive Cancer
 Center) and Professor of <a href="https://www.math.columbia.edu/">Mathematics</a> and <a href="https://www.cs.columbia.edu/">Computer Science</a> at Columbia University. 
-
-<br>
 
 Prior to arriving at Columbia, I was a <a
 href="https://www.math.utexas.edu/~blumberg/">professor</a> in the
