@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: stylized-portrait.jpg
-  address: >
+  more_info: >
     <p>Math Department, Room 607</p>
     <p>Columbia University</p>
     <p>New York, NY 10027</p>
