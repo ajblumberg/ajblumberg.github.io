@@ -15,18 +15,14 @@
       institution: University of Chicago
       year: 2005
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Advised by Michael A. Mandell and J. Peter May.
+        - Thesis: Progress towards the algebraic K-theory of Thom spectra
+
     - title: A.B.
       institution: Harvard College
       year: 1998
       description:
-        - Description 1.
-        - Description 2.
+        - Mathematics
 
 - title: Experience
   type: time_table
