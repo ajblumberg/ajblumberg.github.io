@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
+description: Algebraic topology
 img: assets/img/research-icon-1.png
 importance: 1
 category: work
