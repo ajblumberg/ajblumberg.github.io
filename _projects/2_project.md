@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Geometric data analysis
-description: a project with a background image and giscus comments
+description: Geometric data analysis
 img: assets/img/research-icon-3.png
 importance: 2
 category: work

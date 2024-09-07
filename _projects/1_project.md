@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Algebraic topology
 description: Algebraic topology
 img: assets/img/research-icon-1.png
 importance: 1
