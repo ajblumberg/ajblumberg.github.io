@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Algebraic topology
-description: Algebraic topology
+description: 
 img: assets/img/research-icon-1.png
 importance: 1
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Geometric data analysis
-description: Geometric data analysis
+description: 
 img: assets/img/research-icon-3.png
 importance: 2
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Security and privacy
-description: a project that redirects to another website
+description: 
 img: assets/img/research-icon-2.png
 importance: 3
 category: work
