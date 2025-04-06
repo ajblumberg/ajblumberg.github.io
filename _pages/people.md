@@ -45,7 +45,11 @@ nav_order: 2
 
 <li> Sang min Ko</li>
 
+</ul>
+
 <h5> Alumni </h5>
+
+<ul>
 
 <li> Emily Saunders </li>
 
