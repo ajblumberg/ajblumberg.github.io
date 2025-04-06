@@ -11,7 +11,7 @@ nav_order: 2
 
 <ul>
 
-<li> Abby Hickok </li>
+<li> <a href="https://www.math.columbia.edu/~ahickok/">Abby Hickok</a> </li>
 
 <li> <a href="https://lzyang257.github.io/">Lucy Yang</a></li>
 
@@ -19,13 +19,13 @@ nav_order: 2
 
 <li> <a href="https://research.vu.nl/en/persons/inbar-klang">Inbar Klang</a>, Assistant professor at Vrije Universiteit Amsterdam</li>
 
-<li> Elizabeth Munch </li>
+<li> <a href="https://elizabethmunch.com/">Elizabeth Munch</a>, Associate professor at MSU </li>
 
-<li> Mike Lesnick </li>
+<li> <a href="https://www.albany.edu/~ml644186/">Mike Lesnick</a>, Associate professor at SUNY-Albany</li>
 
-<li> Sam Isaacson </li>
+<li> Sam Isaacson, NSA </li>
 
-<li> Jonathan Campbell </li>
+<li> Jonathan Campbell, IDA/CCRL </li>
 
 </ul>
 
@@ -33,7 +33,21 @@ nav_order: 2
 
 <ul>
 
+<li> Noah Bergam </li>
+
+<li> <a href="">Valerio Galante</a> </li>
+
 <li> Emily Saunders </li>
+
+<li> Roy Magen</li>
+
+<li> <a href="">Yining Liu</a>, lecturer at Columbia</li>
+
+<li> Rok Gregoric </li>
+
+<li> Aaron Royer </li>
+
+<li> Matt Pancia </li>
 
 <li> Jonathan Campbell </li>
 
