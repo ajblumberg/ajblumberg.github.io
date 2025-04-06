@@ -15,6 +15,12 @@ nav_order: 2
 
 <li> <a href="https://lzyang257.github.io/">Lucy Yang</a></li>
 
+</ul>
+
+<h5> Alumni </h5>
+
+<ul>
+
 <li> <a href="https://allenyuan.me/">Allen Yuan</a>, Assistant professor at Northwestern</li>
 
 <li> <a href="https://research.vu.nl/en/persons/inbar-klang">Inbar Klang</a>, Assistant professor at Vrije Universiteit Amsterdam</li>
@@ -37,18 +43,22 @@ nav_order: 2
 
 <li> <a href="">Valerio Galante</a> </li>
 
+<li> Sang min Ko</li>
+
+<h5> Alumni </h5>
+
 <li> Emily Saunders </li>
 
 <li> Roy Magen</li>
 
-<li> <a href="">Yining Liu</a>, lecturer at Columbia</li>
+<li> <a href="https://imyiningliu.github.io/">Yining Liu</a>, lecturer at Columbia</li>
 
-<li> Rok Gregoric </li>
+<li> <a href="https://sites.google.com/view/rokgregoric/home">Rok Gregoric</a>, postdoc at JHU </li>
 
 <li> Aaron Royer </li>
 
 <li> Matt Pancia </li>
 
-<li> Jonathan Campbell </li>
+<li> Jonathan Campbell, IDA/CCRL </li>
 
 </ul>
