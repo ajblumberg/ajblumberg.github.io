@@ -71,6 +71,16 @@ nav_order: 2
 
 <li> <a href="https://rwongmath.github.io/">Richard Wong</a>, assistant teaching professor at Rice</li>
 
+<li> Nicky Reyes </li>
+
+<li> Ethan Leeman </li>
+
+<li> Yuri Sulyma </li>
+
+<li> <a href="https://www.yingyingwu.io/">Yingying Wu</a>, assistant professor at the University of Houston </li>
+
+<li> Ernie Fontes</li>
+
 <li> Aaron Royer </li>
 
 <li> Matt Pancia </li>
