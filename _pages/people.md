@@ -67,6 +67,8 @@ nav_order: 2
 
 <li> <a href="https://sites.google.com/view/rokgregoric/home">Rok Gregoric</a>, postdoc at JHU </li>
 
+<li> <a href="https://www.maths.ox.ac.uk/people/gillian.grindstaff">Gill Grindstaff</a> NSF postdoc at UCLA and the University of Oxford </li>
+
 <li> <a href="https://rwongmath.github.io/">Richard Wong</a>, assistant teaching professor at Rice</li>
 
 <li> Aaron Royer </li>
