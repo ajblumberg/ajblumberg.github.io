@@ -63,7 +63,7 @@ nav_order: 2
 
 <li> <a href="https://imyiningliu.github.io/">Yining Liu</a>, lecturer at Columbia</li>
 
-<li> <a href="https://miriammiyagi.github.io/">Mia Miyagi</a>, NSF postdoc at Brown</i>
+<li> <a href="https://miriammiyagi.github.io/">Mia Miyagi</a>, NSF postdoc at Brown</li>
 
 <li> <a href="https://sites.google.com/view/rokgregoric/home">Rok Gregoric</a>, postdoc at JHU </li>
 
@@ -76,4 +76,6 @@ nav_order: 2
 <li> Matt Pancia </li>
 
 <li> Jonathan Campbell, IDA/CCRL </li>
+
+</ul>
 
