@@ -29,21 +29,27 @@ nav_order: 2
 
 <li> <a href="https://www.albany.edu/~ml644186/">Mike Lesnick</a>, Associate professor at SUNY-Albany</li>
 
+<li> John Berman, Leader of the US IMO team </li>
+
 <li> Sam Isaacson, NSA </li>
 
 <li> Jonathan Campbell, IDA/CCRL </li>
 
 </ul>
 
+<hr />
+
 <h4> Graduate students </h4>
 
 <ul>
 
-<li> Noah Bergam </li>
+<li> <a href="https://njbergam.github.io/">Noah Bergam</a> </li>
 
 <li> <a href="">Valerio Galante</a> </li>
 
 <li> Sang min Ko</li>
+
+<li> Carlos Alvarado </li>
 
 </ul>
 
@@ -53,11 +59,15 @@ nav_order: 2
 
 <li> Emily Saunders </li>
 
-<li> Roy Magen</li>
+<li> Roy Magen, postdoc at Sofia University</li>
 
 <li> <a href="https://imyiningliu.github.io/">Yining Liu</a>, lecturer at Columbia</li>
 
+<li> <a href="https://miriammiyagi.github.io/">Mia Miyagi</a>, NSF postdoc at Brown</i>
+
 <li> <a href="https://sites.google.com/view/rokgregoric/home">Rok Gregoric</a>, postdoc at JHU </li>
+
+<li> <a href="https://rwongmath.github.io/">Richard Wong</a>, assistant teaching professor at Rice</li>
 
 <li> Aaron Royer </li>
 
