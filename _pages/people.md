@@ -75,4 +75,3 @@ nav_order: 2
 
 <li> Jonathan Campbell, IDA/CCRL </li>
 
-</ul>
