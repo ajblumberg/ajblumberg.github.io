@@ -33,7 +33,7 @@ nav_order: 2
 
 <li> Sam Isaacson, NSA </li>
 
-<li> Jonathan Campbell, IDA/CCRL </li>
+<li> <a href="https://jonalfcam.github.io/">Jonathan Campbell</a>, IDA/CCRL </li>
 
 </ul>
 
@@ -69,19 +69,25 @@ nav_order: 2
 
 <li> <a href="https://www.maths.ox.ac.uk/people/gillian.grindstaff">Gill Grindstaff</a> NSF postdoc at UCLA and the University of Oxford </li>
 
+<li> <a href="https://adrianclough.github.io/">Adrian Clough</a> </li>
+
+<li> Melissa McGuirl </li>
+
 <li> <a href="https://rwongmath.github.io/">Richard Wong</a>, assistant teaching professor at Rice</li>
 
 <li> Nicky Reyes </li>
 
 <li> Ethan Leeman </li>
 
-<li> Yuri Sulyma </li>
+<li> <a href="https://ysulyma.github.io/">Yuri Sulyma</a>, jack of all trades </li>
 
 <li> <a href="https://www.yingyingwu.io/">Yingying Wu</a>, assistant professor at the University of Houston </li>
 
 <li> Ernie Fontes</li>
 
 <li> Aaron Royer </li>
+
+<li> Giovanni Franklin </li>
 
 <li> Matt Pancia </li>
 
