@@ -67,7 +67,7 @@ nav_order: 2
 
 <li> <a href="https://sites.google.com/view/rokgregoric/home">Rok Gregoric</a>, postdoc at JHU </li>
 
-<li> <a href="https://www.maths.ox.ac.uk/people/gillian.grindstaff">Gill Grindstaff</a> NSF postdoc at UCLA and the University of Oxford </li>
+<li> <a href="https://www.maths.ox.ac.uk/people/gillian.grindstaff">Gill Grindstaff</a>, NSF postdoc at UCLA and the University of Oxford </li>
 
 <li> <a href="https://adrianclough.github.io/">Adrian Clough</a> </li>
 
@@ -91,7 +91,7 @@ nav_order: 2
 
 <li> Matt Pancia </li>
 
-<li> Jonathan Campbell, IDA/CCRL </li>
+<li> <a href="https://jonalfcam.github.io/">Jonathan Campbell</a>, IDA/CCRL </li>
 
 </ul>
 
