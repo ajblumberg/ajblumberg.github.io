@@ -45,11 +45,11 @@ nav_order: 2
 
 <li> <a href="https://njbergam.github.io/">Noah Bergam</a> </li>
 
-<li> <a href="">Valerio Galante</a> </li>
+<li> Valerio Galante </li>
 
 <li> Sang min Ko</li>
 
-<li> Carlos Alvarado </li>
+<li> <a href="https://alvarado-alvarez.github.io/">Carlos Alvarado</a></li>
 
 </ul>
 
@@ -83,7 +83,7 @@ nav_order: 2
 
 <li> <a href="https://www.yingyingwu.io/">Yingying Wu</a>, assistant professor at the University of Houston </li>
 
-<li> Ernie Fontes</li>
+<li> <a href="https://erniefontes.github.io/about/">Ernie Fontes</a>, senior research scientist at Upstart</li>
 
 <li> Aaron Royer </li>
 
