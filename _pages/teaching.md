@@ -7,4 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-This semester I am teaching algebraic topology.
+This semester I am teaching high-dimensional statistics for genomics (with <a href="https://www.azizilab.com/">Elham Azizi</a>).
+<br>
+Last semester I taught algebraic topology.
