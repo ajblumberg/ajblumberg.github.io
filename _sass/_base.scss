@@ -4,6 +4,24 @@
 
 // Typography
 
+html,
+body {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+code,
+pre,
+.highlight {
+  font-family: 'Fira Mono', monospace;
+}
+
 p,
 h1,
 h2,

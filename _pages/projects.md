@@ -9,6 +9,19 @@ display_categories: [work]
 horizontal: false
 ---
 
+<style>
+  .projects .grid-sizer,
+  .projects .grid-item {
+    width: 180px;
+  }
+  .projects .card-title {
+    font-size: 0.95rem;
+  }
+  .projects .card-text {
+    font-size: 0.85rem;
+  }
+</style>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
