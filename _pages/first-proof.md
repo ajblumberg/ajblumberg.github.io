@@ -3,7 +3,7 @@ layout: page
 title: math + AI
 permalink: /math-AI/
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 I am involved in efforts to carefully and dispassionately evaluated the impact of frontier AI models on mathematical research.
