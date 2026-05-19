@@ -29,7 +29,7 @@ nav_order: 3
     <p>Edited by Andrew J. Blumberg, Teena Gerhardt, and Michael A. Hill</p>
     <p>Cambridge University Press (Mathematical Sciences Research Institute Publications), 2022</p>
     <p>This volume presents an accessible account of the state of the art in the theory of structured ring spectra and their applications in algebraic topology and algebraic K-theory.</p>
-    <p><a href="https://www.amazon.com/Categories-Structured-Mathematical-Institute-Publications/dp/1009123297/">Amazon</a></p>
+    <p><a href="https://www.amazon.com/Categories-Structured-Mathematical-Institute-Publications/dp/1009123297/">Amazon</a> | <a href="https://library.slmath.org/books/Book69/files/wholebook.pdf">Free PDF (SLMath)</a></p>
   </div>
   <img src="/assets/img/gun-cover.jpg" alt="Homotopy theory book alternate cover art">
 </div>
